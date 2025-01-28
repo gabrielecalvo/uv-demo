@@ -28,3 +28,9 @@ For a full list, go to the [feature page](https://docs.astral.sh/uv/getting-star
 ## 2.4 Packaging
 - `uv build` build the project into distribution archives
 - `uv publish` publish the project to a package index.
+
+## 3. Extra resouces
+- [working with docker](https://docs.astral.sh/uv/guides/integration/docker/)
+- [working with github actions](https://docs.astral.sh/uv/guides/integration/github/)
+- [working with pytorch](https://docs.astral.sh/uv/guides/integration/pytorch/)
+- [working with alternative indexes](https://docs.astral.sh/uv/guides/integration/alternative-indexes/)
