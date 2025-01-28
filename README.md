@@ -12,7 +12,7 @@ For a full list, go to the [feature page](https://docs.astral.sh/uv/getting-star
 
 ### 2.1 Enviroment management
 - `uv init <project-name>` initialize a new project ("--app" as default)
-- `uv add <dependency>` add a dependency to main group
+- `uv add <dependency>` add a dependency (to main group)
 - `uv add --dev <dependency>` add dependency in dev group
 - `uv lock --upgrade` update the dependencies
 - `uv tree` see the dependency tree
