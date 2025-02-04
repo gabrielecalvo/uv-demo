@@ -6,6 +6,12 @@ Material for the 15 min lightning demo on [uv](https://docs.astral.sh/uv)
 
 [Installation guide](https://docs.astral.sh/uv/getting-started/installation/)
 
+TLDR: 
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+source $HOME/.local/bin/env
+```
+
 ## 2. Exploring the main commands
 
 For a full list, go to the [feature page](https://docs.astral.sh/uv/getting-started/features/)
